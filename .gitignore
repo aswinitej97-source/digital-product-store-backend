@@ -1,0 +1,4 @@
+.env
+digital_store.db
+_pycache_/
+*.pyc
